@@ -73,8 +73,8 @@ const Skills = () => {
         </div>
         
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
+          <SkillCategory title="Core subjects" category="core"/>
           <SkillCategory title="Frontend Development" category="frontend" />
-          <SkillCategory title="Backend Development" category="backend" />
           <SkillCategory title="Design" category="design" />
           <SkillCategory title="Tools & Platforms" category="tools" />
         </div>

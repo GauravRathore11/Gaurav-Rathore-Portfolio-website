@@ -14,18 +14,6 @@ export const experiences: Experience[] = [
       "Gained exposure to professional tools used in the software industry."
     ]
   },
-  {
-    id: 2,
-    role: "Hackathon Participant",
-    company: "Various Inter-College Competitions",
-    location: "Dehradun",
-    period: "2023 - 2024",
-    description: [
-      "Won and secured runner-up positions in multiple hackathons.",
-      "Developed projects like decentralized apps, CLI tools, and productivity solutions under time constraints.",
-      "Worked collaboratively with team members to brainstorm and deliver innovative solutions."
-    ]
-  }
 ];
 
 export const achievements: Achievement[] = [

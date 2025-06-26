@@ -28,7 +28,7 @@ const Hero = () => {
             </div>
             <div className="flex justify-center lg:justify-start space-x-6">
               <a 
-                href="https://github.com" 
+                href="https://github.com/GauravRathore11" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="text-gray-600 hover:text-gray-900 dark:text-gray-400 dark:hover:text-white transition duration-300 ease-in-out"
@@ -37,7 +37,7 @@ const Hero = () => {
                 <GitHub size={24} />
               </a>
               <a 
-                href="https://linkedin.com" 
+                href="https://www.linkedin.com/in/gaurav-rathore-/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-gray-600 hover:text-gray-900 dark:text-gray-400 dark:hover:text-white transition duration-300 ease-in-out"
@@ -46,7 +46,7 @@ const Hero = () => {
                 <Linkedin size={24} />
               </a>
               <a 
-                href="mailto:contact@example.com"
+                href="mailto:gauravrathore856@gmail.com"
                 className="text-gray-600 hover:text-gray-900 dark:text-gray-400 dark:hover:text-white transition duration-300 ease-in-out"
                 aria-label="Email"
               >

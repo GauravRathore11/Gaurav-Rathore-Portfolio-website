@@ -11,7 +11,7 @@ export interface Project {
 export interface Skill {
   name: string;
   level: number; // 1-5
-  category: 'frontend' | 'backend' | 'design' | 'tools' | 'other';
+  category: 'frontend' | 'core' | 'design' | 'tools' | 'other';
 }
 
 export interface Achievement {

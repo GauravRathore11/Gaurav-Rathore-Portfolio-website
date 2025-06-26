@@ -21,11 +21,11 @@ export const projects: Project[] = [
   },
   {
     id: 3,
-    title: "Cross Platform CLI for File Management",
-    description: "Python-based command line interface to manage files — create, delete, move, copy, and rename with directory structure awareness.",
+    title: "Corevault - Secure CLI for File Management",
+    description: "system calls-based command line interface to manage files — encrypt, decrypt, create, delete, move, copy, rename and other operations with directory structure awareness.",
     image: "https://images.pexels.com/photos/5380641/pexels-photo-5380641.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    tags: ["Python", "File I/O", "CLI", "OS Module"],
-    link: "https://github.com/GauravRathore11/CLI-based-file-management",
-    github: "https://github.com/GauravRathore11/CLI-based-file-management"
+    tags: ["C language", "File I/O", "CLI", "OS Module"],
+    link: "https://github.com/GauravRathore11/CoreVault",
+    github: "https://github.com/GauravRathore11/CoreVault"
   }
 ];

@@ -78,7 +78,7 @@ const Projects = () => {
         
         <div className="text-center mt-12">
           <a 
-            href="https://github.com/yourusername" 
+            href="https://github.com/GauravRathore11" 
             target="_blank" 
             rel="noopener noreferrer"
             className="inline-flex items-center px-6 py-3 border border-gray-300 dark:border-gray-700 text-gray-700 dark:text-gray-300 rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800 transition duration-300 ease-in-out"
